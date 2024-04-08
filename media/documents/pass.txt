@@ -1,0 +1,13 @@
+ssh tech@10.0.5.20 -p 2893
+BInIJz03wmpCGiGWuX7o@
+sudo docker exec -it web-api /bin/sh
+python
+
+
+ora: HKHVdkW4!wt
+
+
+FLdb2850
+
+
+newpass - h832/=Wjpw:]r=DqIT`@
